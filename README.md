@@ -385,4 +385,4 @@ Please enter your guess: d
 Correct!
 Hooray! You saved the person and earned a medal of honor!
 Codeword was: cornfield
-Would you like to play again? [y/n] n
+Would you like to play again? [y/n] n 
